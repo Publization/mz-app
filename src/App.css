@@ -1,0 +1,16 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  outline: 0px
+}
+
+.app {
+  margin: 0px auto;
+  width: 700px
+}
+
+.users-title {
+  color: #111;
+  font-size: 30px;
+  margin-bottom: 30px
+}
